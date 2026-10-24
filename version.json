@@ -1,4 +1,5 @@
 {
-    "version": "3.7",
-    "download_url": "https://github.com/byashera/mxdolap/releases/download/3.0/IT_Dolap_Yonetimi.exe"
+  "version": "4.0",
+  "download_url": "https://github.com/byashera/mxdolap/releases/download/v4.0/IT_Dolap_Yonetimi.exe",
+  "notes": "v4.0 Tek Dosya (.EXE) mimarisi, imzalı sürüm ve performans iyileştirmeleri."
 }
